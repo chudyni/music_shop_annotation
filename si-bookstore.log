@@ -1,0 +1,19 @@
+2017-08-16 21:17:09,319 INFO  [MusicItemPackageFilter] - ---MusicItemPackageFilter---
+2017-08-16 21:17:09,322 INFO  [GuitarRouter] - ---GuitarRouter---
+2017-08-16 21:17:09,322 INFO  [GuitarRouter] - Routed to gibsonChannel
+2017-08-16 21:17:09,323 INFO  [GibsonTransformer] - Transforming to Gibson
+2017-08-16 21:17:09,326 INFO  [GuitarRouter] - ---GuitarRouter---
+2017-08-16 21:17:09,326 INFO  [GuitarRouter] - Routed to gibsonChannel
+2017-08-16 21:17:09,326 INFO  [GibsonTransformer] - Transforming to Gibson
+2017-08-16 21:17:09,328 INFO  [GibsonAggregator] - Completing all Gibson guitars
+2017-08-16 21:17:09,336 INFO  [PrintServiceActivator] - ---PrintServiceActivator---
+2017-08-16 21:17:09,336 INFO  [PrintServiceActivator] - Gibson package delivered! Size: 2
+2017-08-16 21:17:09,337 INFO  [PrintServiceActivator] - Guitar GIBSON SG 400
+2017-08-16 21:17:09,337 INFO  [PrintServiceActivator] - Guitar GIBSON Les Paul Classic
+2017-08-16 21:17:09,337 INFO  [GuitarRouter] - ---GuitarRouter---
+2017-08-16 21:17:09,337 INFO  [GuitarRouter] - Routed to fenderChannel
+2017-08-16 21:17:09,338 INFO  [FenderTransformer] - Transforming to Fender
+2017-08-16 21:17:09,339 INFO  [FenderAggregator] - Completing all Fender guitars
+2017-08-16 21:17:09,339 INFO  [PrintServiceActivator] - ---PrintServiceActivator---
+2017-08-16 21:17:09,340 INFO  [PrintServiceActivator] - Fender package delivered! Size: 1
+2017-08-16 21:17:09,340 INFO  [PrintServiceActivator] - Guitar FENDER Telecaster
